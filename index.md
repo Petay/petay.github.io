@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Добро пожаловать на страницы GitHub
 
 You can use the [editor on GitHub](https://github.com/Petay/petay.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
